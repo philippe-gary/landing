@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700|Raleway:300,400,500,600,700");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Comfortaa';
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0px;
+}
+
+h1, h2, h3{
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-size: 26px;
+}
+
+a {
+  text-decoration: none;
+}
